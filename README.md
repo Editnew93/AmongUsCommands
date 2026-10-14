@@ -30,7 +30,13 @@ Replay is a command to save replays for your memories. The /replay command has 4
 | `/replay stoprecording` | Lets you stop recording a replay. |
 
 When you start playing a replay, you are a ghost. And you start chatting yourself in the chat, the reason of this is the replay. Its to implement who killed who, who called a meeting, who chatted and more.
+
+> [!IMPORTANT]
+> Please use the second mod we gave in the release named "AmongUsChatUnlocked.dll" to unlock the chat in practice mode to play replays.
+
 Includes you have commands when you are playing a replay.
+
+
 
 | Replay Command List | About this argument |
 | -------- | -------- |
@@ -42,6 +48,9 @@ Includes you have commands when you are playing a replay.
 | `/roles` | Shows everybodys roles in the exact second of the replay. |
 | `/role <username>` | Shows 1 persons role. |
 | `/spectate` | Something similar to /haunt. |
+
+> [!CAUTION]
+> Dont forget to run the replay on practice mode, below the Online button!
 
 ### /kick
 Kicks somebody from the game as host.
