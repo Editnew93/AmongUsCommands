@@ -2,6 +2,9 @@
 An Among Us Mod to basically add commands to the game.
 + Includes Replays!
 
+> [!NOTE]
+> The .cs files are in a previous debug build file of AmongUsCommands 0.9.8.BeforeRelease
+
 [Releases](#releases) 
 
 AmongUsCommands is a mod for Among Us. It adds commands to the chat for host-only and others.
