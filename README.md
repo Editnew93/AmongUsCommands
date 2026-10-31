@@ -1,4 +1,6 @@
 # AmongUsCommands
+[![GitHub All Releases](https://img.shields.io/github/downloads/Editnew93/AmongUsCommands/total.svg)](https://github.com/Editnew93/AmongUsCommands/releases)
+
 An Among Us Mod to basically add commands to the game.
 + Includes Replays!
 
